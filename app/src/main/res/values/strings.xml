@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorLayout</string>
+    <string name="c">C</string>
+    <string name="openbracket">(</string>
+    <string name="closebracket">)</string>
+    <string name="divide">/</string>
+</resources>
